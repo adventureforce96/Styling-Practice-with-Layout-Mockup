@@ -10,7 +10,7 @@ header,
 main,
 footer {
   border-radius: 8px; /* Rounded corners for all major sections */
-  padding: 1.5rem 0.5em; /* Inside spacing: top/bottom and sides */
+  padding: 1.5rem 1.75rem; /* Inside spacing: top/bottom and sides */
   margin-bottom: 1.5rem; /* Space between sections */
 }
 
