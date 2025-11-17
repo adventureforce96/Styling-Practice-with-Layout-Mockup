@@ -10,7 +10,6 @@ This repository contains a simple HTML + CSS project showcasing the use of **sem
 
 ## ✨ Features
 - Semantic HTML5 layout (`header`, `main`, `article`, `footer`)
-- Responsive images with `object-fit` and max dimensions
 - Clear float handling for text wrapping
 - Accessible footer with social media links
 - Simple, clean design with rounded corners and section spacing
